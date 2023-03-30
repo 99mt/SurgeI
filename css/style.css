@@ -791,3 +791,9 @@ body {
     margin-bottom: 50px;
   }
 }
+
+.post-title {
+  font-size: 35px;
+  font-weight: bold;
+  
+}
